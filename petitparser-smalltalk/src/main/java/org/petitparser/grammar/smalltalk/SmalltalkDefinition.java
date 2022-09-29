@@ -13,7 +13,7 @@ import org.petitparser.parser.primitive.EpsilonParser;
 import org.petitparser.tools.GrammarDefinition;
 
 /**
- * Smalltalk grammar definition.
+ * Smalltalk grammar definition. (test)
  */
 public class SmalltalkDefinition extends GrammarDefinition {
 
