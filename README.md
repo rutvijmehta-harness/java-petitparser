@@ -77,7 +77,7 @@ Instructions for alternative build systems such as Gradle, SBT, or Leiningen you
 
 ### Bazel
 
-Alternatively, if you'd like the latest code clone the repository:
+Alternatively, if you'd like the latest code clone the repository (test):
 
 ```bash
 git clone https://github.com/petitparser/java-petitparser.git
